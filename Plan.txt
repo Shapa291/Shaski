@@ -1,1 +1,17 @@
 Классы:
+	1.Game
+		Methods:
+			makeMove()
+			isNotOver()
+			getWinner()
+	2.Board
+		Methods:
+			checkMove()
+			resetMap()
+	3.Cell
+		Methods:
+			state[Black,White,Blanck]()
+	4.Input/Output
+		Methods
+			getMove()
+			drawBoard()
